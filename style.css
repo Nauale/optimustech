@@ -278,8 +278,8 @@ button{
     gap: 2rem;
 }
 
-.depoimentos h6{
-    font-weight: 500;
+.depoimentos h5{
+    font-weight: 600;
     text-align: center;
 }
 
